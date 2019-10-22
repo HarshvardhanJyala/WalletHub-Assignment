@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WalletHub Assignment Suite]" guice-stage="DEVELOPMENT">
+  <test name="FB Test1(failed)">
+    <classes>
+      <class name="fbPackage.WalletHubTestCase2">
+        <methods>
+          <include name="setUp"/>
+          <include name="postedReviewValidation"/>
+        </methods>
+      </class> <!-- fbPackage.WalletHubTestCase2 -->
+    </classes>
+  </test> <!-- FB Test1(failed) -->
+</suite> <!-- Failed suite [WalletHub Assignment Suite] -->
